@@ -1,0 +1,1 @@
+Subfolder associated with resources for the howto directory of the twiki
