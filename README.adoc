@@ -1,0 +1,26 @@
+= Getting Started
+
+This is a template for a test wiki for the LiteBIRD-Canada collaboration.
+
+WARNING: This wiki is *public* for the purposes of experimentation. 
+
+Private wikis are only available with paid subscription. Any documentation made on this wiki can be converted seamlessly to our private wiki if we like it. Until then, keep confidential details off this wiki.
+
+== Editing the wiki
+
+This is a git repository and so can be edited locally from cloned copies of the repo and pushed.
+It may also be edited using the github web portal editor. This page is formatted using asciidoc, but many familiar wiki formatting languages are supported.
+
+== Navigation
+
+To be completed.
+
+== Useful Links
+
+Github wiki support: https://help.github.com/en/github/building-a-strong-community/adding-or-editing-wiki-pages
+
+Asciidoc syntax support: https://asciidoctor.org/docs/asciidoc-writers-guide/
+
+
+
+
